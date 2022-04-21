@@ -1,9 +1,9 @@
 {
-  "name": "keycloak-mock",
+  "name": "keycloak-mock-oyk",
   "version": "1.0.10",
   "description": "Keycloak server mock for Node.js",
   "main": "dist/index.js",
-  "repository": "https://github.com/SectorLabs/keycloak-mock",
+  "repository": "https://github.com/ouwyukha/keycloak-mock",
   "author": "Sector Labs <open-source@sectorlabs.ro>",
   "license": "MIT",
   "engines": {
